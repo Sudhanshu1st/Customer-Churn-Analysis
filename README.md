@@ -93,6 +93,7 @@ The second notebook covers:
 
 2. **Hypothesis Testing**:
    - Price sensitivity is not the primary driver of churn but is a weak contributor.
+![output](https://github.com/user-attachments/assets/5e436dc9-a506-44be-8691-2f5677a02c2a)
 
 ---
 
