@@ -1,4 +1,4 @@
-# Customer Churn Analysis for a Power Utility Company
+# Customer Churn Prediction for a Power Utility Company
 
 This repository contains the analysis and predictive modeling conducted for a major gas and electricity utility that supplies energy to small and medium-sized enterprises. The objective was to identify drivers of customer churn and create a model to predict churn, enabling the company to take proactive measures to retain customers.
 
